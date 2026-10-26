@@ -1,0 +1,66 @@
+
+// Output of : ./ex7_travel_agency.exe
+
+How many drivers are there: 5
+
+
+Enter details of driver no 1
+Enter Name: mistabaaz
+
+Enter Driving License No: MB987321
+
+Enter route (from where to where) : KKR to PIPLI
+
+Enter distance of route (in kms) : 56.78
+
+
+Enter details of driver no 2
+Enter Name: Mista Baaz
+
+Enter Driving License No: MB234987
+
+Enter route (from where to where) : HR to HP
+
+Enter distance of route (in kms) : 324.67
+
+
+Enter details of driver no 3
+Enter Name: Nexus
+
+Enter Driving License No: NX3588
+
+Enter route (from where to where) : HR to Delhi
+
+Enter distance of route (in kms) : 1298.45
+
+
+Enter details of driver no 4
+Enter Name: Nexus
+
+Enter Driving License No: NX8736
+
+Enter route (from where to where) : Delhi to HR
+
+Enter distance of route (in kms) : 2.87
+
+
+Enter details of driver no 5
+Enter Name: Thanos
+
+Enter Driving License No: TH98723
+
+Enter route (from where to where) : 22667.3
+
+Enter distance of route (in kms) : 22667.8
+
+All Details are successfully parsed of 5 drivers
+
+---------------------------------------------------------------------------
+|        Name        |     License No     |        Route       | Distance |
+|-------------------------------------------------------------------------|
+|      mistabaaz     |      MB987321      |    KKR to PIPLI    |   56.78  |
+|     Mista Baaz     |      MB234987      |      HR to HP      |  324.67  |
+|        Nexus       |       NX3588       |     HR to Delhi    |  1298.45 |
+|        Nexus       |       NX8736       |     Delhi to HR    |   2.87   |
+|       Thanos       |       TH98723      |       22667.3      | 22667.80 |
+|-------------------------------------------------------------------------|
